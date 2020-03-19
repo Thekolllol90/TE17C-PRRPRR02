@@ -2,7 +2,7 @@ package animals;
 
 import interfaces.IMotions;
 
-public abstract class Animal implements IMotions {
+public abstract class Animal {
 
     private String _color;
     private String _description;

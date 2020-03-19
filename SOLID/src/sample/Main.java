@@ -1,6 +1,5 @@
 package sample;
 
-
 import animals.*;
 
 public class Main   {

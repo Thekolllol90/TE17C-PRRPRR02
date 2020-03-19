@@ -1,6 +1,8 @@
 package animals;
 
-public class Dog extends Animal {
+import interfaces.IDog;
+
+public class Dog extends Animal implements IDog {
 
     public Dog(String color, String descpriton)  {
         super(color,descpriton);

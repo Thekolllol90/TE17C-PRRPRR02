@@ -1,4 +1,4 @@
 package interfaces;
 
-public interface IDog {
+public interface IDog extends IJump{
 }

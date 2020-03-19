@@ -10,8 +10,6 @@ public interface IMotions {
 
     abstract void slither();
 
-    abstract void jump();
-
     abstract void swim();
 
     abstract void run();
