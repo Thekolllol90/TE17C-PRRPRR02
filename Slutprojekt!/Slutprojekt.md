@@ -12,6 +12,8 @@ Målet är att varje enskilld elev skall planera och utföra och redovisa ett mj
 
 Redovisningen kan ske i antingen liten grupp eller helklass.
 
+Inlämningar med hela projektet i en commit blir F!
+
 ### Förslag på applikationer
 
 * Tic-Tac-Toe (luffarschack)
