@@ -18,11 +18,11 @@
          </left>
          <bottom>
             <Button mnemonicParsing="false" onAction="#onExitClick" text="Exit" BorderPane.alignment="CENTER" />
+            <Button onAction="#ugh" text="hello"/>
          </bottom>
       </BorderPane>
    </children>
    <columnConstraints>
-
    </columnConstraints>
    <rowConstraints>
       <RowConstraints />

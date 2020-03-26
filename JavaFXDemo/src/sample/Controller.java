@@ -29,4 +29,8 @@ public class Controller {
     public void onExitClick(ActionEvent actionEvent) {
         System.exit(0);
     }
+
+    public void ugh(ActionEvent actionEvent2){
+        System.out.println("me dont orkar do this, i want to work on slutprojekt");
+    }
 }
