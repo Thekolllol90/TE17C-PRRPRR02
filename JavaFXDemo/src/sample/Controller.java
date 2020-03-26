@@ -31,6 +31,6 @@ public class Controller {
     }
 
     public void ugh(ActionEvent actionEvent2){
-        System.out.println("me dont orkar do this, i want to work on slutprojekt");
+        System.out.println("me dont orkar do this, i want to work on slutprojekt, kan inte äns köra denna skiten");
     }
 }
